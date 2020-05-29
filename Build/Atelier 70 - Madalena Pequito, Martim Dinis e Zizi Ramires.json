@@ -1,0 +1,13 @@
+{
+"companyName": "Atelier70",
+"productName": "Atelier70 - primeira mostra",
+"dataUrl": "Atelier 70 - Madalena Pequito, Martim Dinis e Zizi Ramires.data.unityweb",
+"wasmCodeUrl": "Atelier 70 - Madalena Pequito, Martim Dinis e Zizi Ramires.wasm.code.unityweb",
+"wasmFrameworkUrl": "Atelier 70 - Madalena Pequito, Martim Dinis e Zizi Ramires.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"}
+}
